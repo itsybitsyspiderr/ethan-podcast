@@ -28,5 +28,15 @@
     "duration": "25:00",
     "pubDate": "Sat, 25 Jul 2026 16:00:00 GMT",
     "ts": 1784995200.0
+  },
+  {
+    "guid": "test-sanur-short",
+    "title": "TEST Sanur Short",
+    "description": "The sun was still under the sea at Sanur when Frankie Bell walked into the water, and fourteen people walked in behind her.\n\nShort pipeline test \u2014 not for publishing.\n\nChapters:\n0:00 The Sun Was Still Under The\n1:06 The Sun Cleared The Water. Fifteen\n1:09 It Began, Fourteen Months And Ten\n1:24 Nine Minutes In, Her Phone Lit\n\nA new relaxing escape story every day. Subscribe.\n\nThis is a work of fiction. The place is real; the characters and businesses\nare invented. Narration uses an AI-generated voice.",
+    "filename": "test-sanur-short.mp3",
+    "length": 1876879,
+    "duration": "1:57",
+    "pubDate": "Mon, 03 Aug 2026 21:30:00 GMT",
+    "ts": 1785792600.0
   }
 ]
